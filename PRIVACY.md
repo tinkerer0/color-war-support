@@ -1,22 +1,29 @@
 # Color War Simulator 개인정보 처리방침 / Color War Simulator Privacy Policy
 
-시행일 / Effective: 2026-11-18 · 앱 버전 / App version 1.0.0 · 웹판 방문 통계 추가 / Web version visit statistics added
+시행일 / Effective: 2026-11-19 · 배너 광고는 앱 버전 1.1.0부터 / Banner ads from app version 1.1.0 · 웹판 방문 통계 2026-11-18부터 / Web statistics since 2026-11-18
+
+1.0.0에는 광고 SDK가 없고 설정만 기기에 저장됩니다.
+Version 1.0.0 has no advertising SDK; only settings are stored on the device.
 
 ## 한국어
 
 운영자: tinkerer0. 문의: **tinkerer0.dev@gmail.com**
 
-### 수집하는 정보
+### 앱이 처리하는 정보
 
-Color War Simulator은 개인정보를 수집하지 않습니다. 계정·로그인이 없고, 이름·이메일·위치·연락처·기기 식별자를 묻거나 읽지 않습니다. 마이크, 카메라, 위치, 연락처, 사진 접근 권한을 요청하지 않습니다. 웹판의 방문 통계는 아래 「웹판 방문 통계」를 참고해 주세요.
+Color War Simulator는 계정이나 개발자가 운영하는 서버 없이 동작합니다. 이름·이메일·연락처를 묻지 않고, 마이크, 카메라, 정밀 위치, 연락처, 사진 접근 권한을 요청하지 않습니다. 대결은 인터넷 없이도 볼 수 있습니다.
 
-### 기기에 저장되는 정보
+설정(제한 시간·소리·진동)은 이 기기의 앱 저장 공간에만 저장되고 개발자에게 전송되지 않습니다. 앱을 삭제하면 함께 지워집니다. Apple의 기기 백업과 복원은 기기 설정과 Apple 정책을 따릅니다.
 
-설정(제한 시간·소리·진동)만 이 기기의 앱 저장 공간에 저장됩니다. 개발자를 포함해 누구에게도 전송되지 않습니다. 앱을 삭제하면 함께 지워집니다. Apple의 기기 백업과 복원은 기기 설정과 Apple 정책을 따릅니다.
+### 배너 광고와 동의
 
-### 네트워크와 제3자
+1.1.0부터 대결 화면 아래에 Google AdMob 배너 광고를 표시합니다. 광고와 동의 정보 갱신에는 인터넷 연결이 필요하며, 연결이 없으면 광고 없이 동작합니다.
 
-앱은 인터넷에 연결하지 않습니다. 광고, 분석, 결제, 추적 도구를 쓰지 않습니다. 설정의 「개인정보 처리방침」(영어 기기는 "Privacy Policy")을 누르면 이 문서가 Safari에서 열리고, 그때는 GitHub의 개인정보 처리방침이 적용됩니다.
+Google Mobile Ads SDK는 광고 제공·측정·부정 이용 방지를 위해 IP 주소에서 얻는 대략적 위치, 기기·광고 식별자, 광고 및 사용 상호작용, 오류·성능·진단 정보를 처리할 수 있습니다. Google UMP는 유럽 등 적용 지역의 동의 요건과 선택을 처리하며, 앱을 시작할 때 동의 정보를 갱신하고 필요한 경우 동의 안내를 표시합니다.
+
+처음 실행할 때 iOS 추적 허용 질문이 표시될 수 있습니다. 거절해도 앱은 똑같이 동작하며, 추적 허용은 iOS 설정에서 바꿀 수 있습니다. Google이 개인정보 옵션을 요구하는 지역에서는 앱 설정에 「광고 개인정보 설정」이 표시되어 동의 선택을 바꿀 수 있습니다. 광고의 제공 여부와 방식은 지역·동의·네트워크 상황에 따라 달라질 수 있습니다.
+
+Google이 처리하는 정보와 보관·국외 처리·선택권은 [Google 개인정보처리방침](https://policies.google.com/privacy)과 [파트너 앱에서의 정보 사용](https://policies.google.com/technologies/partner-sites)을 참고해 주세요.
 
 ### 웹판 방문 통계
 
@@ -24,11 +31,11 @@ Color War Simulator은 개인정보를 수집하지 않습니다. 계정·로그
 
 ### 어린이
 
-앱은 어린이를 포함한 누구의 정보도 수집하지 않습니다.
+앱은 어린이를 대상으로 하지 않으며, 광고 요청에는 일반 이용자 기준이 적용됩니다.
 
-### 변경
+### 외부 링크와 변경
 
-광고 등 정보 처리가 달라지는 기능을 넣으면, 그 버전을 내기 전에 이 문서를 고치고 시행일을 바꿉니다.
+설정의 「개인정보 처리방침」(영어 기기는 "Privacy Policy")을 누르면 이 문서가 Safari에서 열리고, 그때는 GitHub의 개인정보 처리방침이 적용됩니다. 정보 처리가 달라지는 기능을 넣으면 그 버전을 내기 전에 이 문서를 고치고 시행일을 바꿉니다.
 
 ### 문의
 
@@ -38,17 +45,21 @@ Color War Simulator은 개인정보를 수집하지 않습니다. 계정·로그
 
 Operator: tinkerer0. Contact: **tinkerer0.dev@gmail.com**
 
-### Information collected
+### Data handled by the app
 
-Color War Simulator does not collect personal information. There is no account or sign-in, and the app does not ask for or read your name, email, location, contacts or device identifiers. It does not request access to the microphone, camera, location, contacts or photos. For visit statistics on the web version, see "Web version visit statistics" below.
+Color War Simulator has no account or developer-operated server. It does not ask for your name, email or contacts, and does not request access to the microphone, camera, precise location, contacts or photos. Matches play without an internet connection.
 
-### Information stored on your device
+Settings (time limit, sound, vibration) are stored only in the app's storage on this device and are not sent to the developer. They are removed when you delete the app. Apple device backup and restore follow your device settings and Apple's policies.
 
-Only settings (time limit, sound, vibration) are stored, in the app's storage on this device. They are not sent to anyone, including the developer, and are removed when you delete the app. Apple device backup and restore follow your device settings and Apple's policies.
+### Banner ads and consent
 
-### Network and third parties
+Starting with 1.1.0, a Google AdMob banner ad is shown below the match screen. Ads and consent updates require an internet connection; without one, the app works without ads.
 
-The app does not connect to the internet and uses no advertising, analytics, payment or tracking tools. Tapping "Privacy Policy" (Korean: "개인정보 처리방침") in Settings opens this document in Safari, where GitHub's privacy policy applies.
+Google Mobile Ads may process approximate location derived from IP addresses, device and advertising identifiers, advertising and usage interactions, and crash, performance and diagnostic information for advertising, measurement and fraud prevention. Google UMP handles consent requirements and choices in applicable regions such as Europe; the app updates consent information at launch and presents any required consent form.
+
+An iOS tracking permission prompt may appear on first launch. Declining does not change how the app works, and you can change tracking permission in iOS Settings. Where Google requires privacy options, the app's settings include "Ad privacy options" to change your consent choices. Ad availability and delivery can vary with region, consent and connectivity.
+
+For Google's handling, retention, international processing and privacy controls, see the [Google Privacy Policy](https://policies.google.com/privacy) and [information use on partner apps](https://policies.google.com/technologies/partner-sites).
 
 ### Web version visit statistics
 
@@ -56,11 +67,11 @@ This section applies only to the web version (https://tinkerer0.github.io/color-
 
 ### Children
 
-The app collects no information from anyone, including children.
+The app is not directed at children; ad requests use general-audience settings.
 
-### Changes
+### External links and changes
 
-If a future version adds anything that handles information differently, such as ads, this document will be updated with a new effective date before that version is released.
+Tapping "Privacy Policy" (Korean: "개인정보 처리방침") in Settings opens this document in Safari, where GitHub's privacy policy applies. If a future version handles information differently, this document will be updated with a new effective date before that version is released.
 
 ### Contact
 
